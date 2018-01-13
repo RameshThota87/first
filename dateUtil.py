@@ -5,3 +5,5 @@
 #A function that will return the timestamp
 
 #A function that will return the current month
+
+#A function that will return the current day of week(Sunday-Saturday)
